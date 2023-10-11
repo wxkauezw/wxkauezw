@@ -2,7 +2,7 @@
 
 Meu nome é Kaue
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,3 +10,5 @@ Meu nome é Kaue
 - kaue.moreira@escola.pr.gov.br
 
   @wx.kauezw
+
+![](https://media.tenor.com/rNGcuCXUhucAAAAM/cr7.gif)
