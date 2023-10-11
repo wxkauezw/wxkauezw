@@ -9,6 +9,6 @@ Meu nome é Kaue
 ### Você pode entrar em contato comigo 📫
 - kaue.moreira@escola.pr.gov.br
 
-  @wx.kauezw
+  [@wx.kauezw](instagram.com)
 
 ![](https://media.tenor.com/rNGcuCXUhucAAAAM/cr7.gif)
